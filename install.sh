@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.4.7"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/linux"
+DOWNLOAD_HOST="https://github.com/Evi1Genius-dot/RustMinerSystem/raw/main/linux"
 ORIGIN_EXEC="rustminersystem-${VERSION}"
 
 SERVICE_NAME="rustservice"
