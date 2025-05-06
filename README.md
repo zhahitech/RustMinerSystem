@@ -74,13 +74,13 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+     bash <(curl -s -L https://github.com/Evi1Genius-dot/RustMinerSystem/raw/main/install.sh)
    ```
 
    <p>&emsp;&emsp;如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址</p>
 
    ```sh
-     bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+     bash <(curl -s -L -k https://rustminersystem.com/Evi1Genius-dot/RustMinerSystem/raw/main/install.sh)
    ```
    
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
@@ -94,13 +94,13 @@
    &emsp;&emsp;ARM:
 
    ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
+     bash <(curl -s -L https://github.com/Evi1Genius-dot/RustMinerSystem/raw/main/arm-install.sh)
    ```
 
    &emsp;&emsp;ARMV7:
 
    ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
+     bash <(curl -s -L https://github.com/Evi1Genius-dot/RustMinerSystem/raw/main/armv7-install.sh)
    ```
 
    </td>
@@ -113,7 +113,7 @@
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
    ```sh
-     https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+     https://github.com/Evi1Genius-dot/RustMinerSystem/tree/main/windows
    ```
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
@@ -195,16 +195,7 @@
 
 <span id="liaotian"></span>
 
-### 👉 **加入聊天组**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-
-<p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
 
 ### 👉 **特别感谢**
 
@@ -243,8 +234,7 @@
 
 ### 👉 **定制专属版本说明**
 
-   <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
-   <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
+   <p>&emsp;&emsp;1. 联系群主或管理员提供相关信息即可免费定制。</p>
 
    </td>
    </tr>
